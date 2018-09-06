@@ -2,10 +2,9 @@
 <body>
 <br>
  <div align="center">
- <img src="https://www.featuredcustomers.com/media/Company.logo/HyperGrid.png" align="middle" height="150"><br>
-  <h1><p> Easy Self-Service Application Deployment in Minutes </p></h1>
-  <h2><p> Apache Tomcat from HyperGrid App Library </p></h2>
-  <h2><p> v. 1.0 </p></h2>
+ <h1><p> Easy Triggered Orchestration & Workflows with HyperGrid </p></h1>
+ <h2><p></p></h2>
+ <img src="https://i.imgur.com/hclXBxe.png" align="middle" height="570"><br>
  </div>
 </body>
 </html>
